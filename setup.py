@@ -8,5 +8,5 @@ setup(
     author="https://github.com/billpmurphy",
     url="https://github.com/billpmurphy/blockchain-random",
     license="GPL3",
-    py_modules=["blockrandom"]
+    py_modules=["blockrandom", "entropy_collector", "math_utils", "randomness_testing"]
 )
